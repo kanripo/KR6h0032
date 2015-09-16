@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 僧伽吒經
+#+DATE: 2015-08-30 20:07:08.978903
+#+PROPERTY: JUAN 0
