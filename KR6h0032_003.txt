@@ -1,21 +1,20 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:07:08.732501
+#+DATE: 2015-08-30 20:07:10.940037
 #+TITLE: 僧伽吒經
 #+PROPERTY: CBETA_ID T13n0423
 #+PROPERTY: ID KR6h0032
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 13, No. 423
 #+PROPERTY: VOL 13
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6h0032_T_000-0959b>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6h0032_T_003-0969a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 3
 ¶
 ¶
-
- 《僧伽吒經》卷第三¶
+《僧伽吒經》卷第三¶
 ¶
-元魏優禪尼國王子月婆首那譯¶
+元魏優禪尼國王子月婆首那譯魏優禪尼國王子月婆首那譯¶
 
 爾時，藥上菩提薩埵摩訶薩埵白佛言：「世尊！¶
 何因緣故如來出世？」
@@ -397,7 +396,7 @@
 <pb:KR6h0032_T_003-0972a>¶
 眾生拔令解脫。」¶
 
-爾時諸天，於虛空中，而說偈言：¶
+爾時諸天，於虛空巾，而說偈言：¶
 
 #+BEGIN_VERSE
 「　「最勝好福田，
