@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:07:10.235194
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 8:21
 #+TITLE: 僧伽吒經
 #+PROPERTY: CBETA_ID T13n0423
 #+PROPERTY: ID KR6h0032
